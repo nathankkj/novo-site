@@ -51,7 +51,7 @@ header img {
    width: 150px;
    height: 150px;
    border-radius: 50%;
-   border: 5px solid blue;
+   border: 5px solid rgb(132, 132, 148);
 }
 
 
@@ -61,7 +61,7 @@ header img {
 
 
 h1 {
-   color: blue;
+   color: rgb(15, 15, 15);
 }
 
 
@@ -99,7 +99,7 @@ nav a {
 
 
 nav a:hover {
-   color: blue;
+   color: rgb(26, 44, 14);
 }
 
 
