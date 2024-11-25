@@ -42,7 +42,7 @@ ul {
 
 
 a {
-   color: white;
+   color: rgb(230, 12, 12);
    text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ header img {
    width: 150px;
    height: 150px;
    border-radius: 50%;
-   border: 5px solid rgb(132, 132, 148);
+   border: 5px solid rgb(58, 58, 73);
 }
 
 
